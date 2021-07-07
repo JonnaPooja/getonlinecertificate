@@ -1,0 +1,106 @@
+.user-id1{
+    margin-left: auto;
+    margin: right;
+    padding: 35px;
+    justify-content: space-around;
+    width:  250px;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 9px 2px #a45bee;
+  background-color:white;
+ 
+}
+
+.admin{
+  margin-left: auto;
+  margin: right;
+  padding: 35px;
+  justify-content: space-around;
+  width:  350px;
+  height: 500px;
+  border-radius: 20px;
+  box-shadow: 2px 2px 9px 2px #a45bee;
+background-color:white;
+
+}
+.certification{
+    margin-left: auto;
+    margin: right;
+    padding: 35px;
+    justify-content: space-around;
+    width:  300px;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 9px 2px #a45bee;
+  background-color:white;
+}
+
+.butt{
+    color:black;
+    background-color: rgb(62, 130, 207);
+    border-radius: 30px;
+    border-style: groove;
+    
+}
+.cod-md-12{
+    background:url("C:\Users\manimt\OneDrive - Capgemini\Desktop\New folder\GetOnlineCertificate (2)\src\image\img4.png");
+    border-radius:1px;
+    background-size: cover;
+    padding:25px;
+    min-height: 95px;
+  }
+  .userhome{
+    background:url("C:\Users\manimt\OneDrive - Capgemini\Desktop\New folder\GetOnlineCertificate (2)\src\image\1.jpg");
+    border-radius:1px;
+    background-size: cover;
+    padding:25px;
+    min-height: 95px;
+  }
+  .adminhome{
+    background:url("C:\Users\manimt\OneDrive - Capgemini\Desktop\New folder\GetOnlineCertificate (2)\src\image\6.jpg");
+    border-radius:1px;
+    background-size: cover;
+    padding:25px;
+    min-height: 95px;
+  }
+  .cont{
+    background:url("C:\Users\manimt\OneDrive - Capgemini\Desktop\New folder\GetOnlineCertificate (2)\src\image\1.jpg");
+    border-radius:1px;
+    background-size: cover;
+    padding:25px;
+    min-height: 95px;
+  }
+  .bulb{
+    background-color: #a45bee;
+    border-radius:1px;
+    background-size: cover;
+    padding:25px;
+    min-height: 95px;
+  }
+  .about{
+    background-color: #94e2d1;
+    border-radius:1px;
+    background-size: cover;
+    padding:25px;
+    min-height: 95px;
+  }
+.min{
+    width: 100%;
+    border-radius: inherit;
+    
+}
+.data{
+margin: auto;
+margin-top: 0%;
+margin-bottom: 0%;
+text-decoration-line: initial;
+font-family: 'Garamond Bold';
+color:  rgb(23, 23, 180);
+font-size: 10px;
+font-stretch: expanded;
+
+font-display: pink;
+text-emphasis-color: pink;
+text-decoration-style: solid;
+
+}
